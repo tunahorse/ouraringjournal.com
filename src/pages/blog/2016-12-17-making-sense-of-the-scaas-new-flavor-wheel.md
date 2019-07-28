@@ -11,8 +11,6 @@ tags:
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-
-
 ## TOTAL SLEEP 6H 45 MINS
 
 SUPPLEMENTS
@@ -27,4 +25,4 @@ Bed Time
 
 \-
 
-Rough night, not sure why I woke up so early
+Rough night, not sure why I woke up so early. No alarm, but I still woke up early.
