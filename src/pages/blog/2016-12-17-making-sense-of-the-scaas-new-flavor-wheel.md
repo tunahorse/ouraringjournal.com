@@ -9,7 +9,7 @@ tags:
   - Oura Ring
   - OuraRing
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/screen-shot-2019-07-27-at-7.59.19-pm.png)
 
 ## TOTAL SLEEP 6H 45 MINS
 
