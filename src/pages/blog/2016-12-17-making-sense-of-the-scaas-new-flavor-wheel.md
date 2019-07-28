@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 7/26/20219
+title: 7/26/2019
 date: 2019-07-26T14:04:00.000Z
 description: 'Tough night '
 featuredpost: true
