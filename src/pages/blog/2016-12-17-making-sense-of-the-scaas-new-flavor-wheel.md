@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 7/26/2020
 date: 2016-12-17T15:04:10.000Z
 description: 'Tough night '
-featuredpost: false
+featuredpost: true
 featuredimage: /img/screen-shot-2019-07-27-at-7.59.19-pm.png
 tags:
   - Oura Ring
