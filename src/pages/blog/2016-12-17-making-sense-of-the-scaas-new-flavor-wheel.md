@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: 7/26/2020
-date: 2016-12-17T15:04:10.000Z
+title: 7/26/20219
+date: 2019-07-26T14:04:00.000Z
 description: 'Tough night '
 featuredpost: true
 featuredimage: /img/screen-shot-2019-07-27-at-7.59.19-pm.png
